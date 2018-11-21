@@ -18,10 +18,10 @@ Simply a CRUD functionality.
 * Secrets to DB needs to be handled - it is bad to keep them in config 
 
 # Links after you run the solution
-Doc: https://localhost:44311/swagger/index.html?url=/swagger/v1/swagger.json#/BannerController
-GET: https://localhost:44311/api/banner/?bannerId=<id>
-DELETE: https://localhost:44311/api/banner/<id>
-POST: https://localhost:44311/api/banner with Content-Type: application/json, and body like the sample JSON
+* Doc: https://localhost:44311/swagger/index.html?url=/swagger/v1/swagger.json#/BannerController
+* GET: https://localhost:44311/api/banner/?bannerId=<id>
+* DELETE: https://localhost:44311/api/banner/<id>
+* POST: https://localhost:44311/api/banner with Content-Type: application/json, and body like the sample JSON
 
 # Samples of what it can do
 CREATE and UDATE
